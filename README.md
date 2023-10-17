@@ -1,8 +1,12 @@
-<h1 align="left">Olá dev 👋 Como vai?</h1>
+<h1 align="left">Guilherme Ferreira</h1>
 
 ###
 
-<p align="left">Eu me chamo Guilherme e venho de Minas Gerais, Brasil.</p>
+<h2 align="left">Olá devs!!</h2>
+
+###
+
+<p align="left">Tenho 19 anos, moro em Timóteo/MG e sou apaixonado pela programação e gatos! Estou me aventurando nesse mundo da programação, criando bugs, aprendendo e passando raiva, mas com muito amor!</p>
 
 ###
 
